@@ -14,7 +14,7 @@ body {
 
 article {
     border: 1px solid tan;
-    box-shadow: 2px 2px 5px tan;
+    box-shadow: 2px 2px 5px rgb(88, 83, 75);
     margin: 3em;
     padding: 1em;
 }

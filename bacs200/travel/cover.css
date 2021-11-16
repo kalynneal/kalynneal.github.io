@@ -59,3 +59,8 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+p {
+  text-shadow: 0 0 3px white;
+  
+}

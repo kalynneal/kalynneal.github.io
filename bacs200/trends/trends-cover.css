@@ -22,7 +22,7 @@ body {
 }
 
 body {
-  background: url('https://kalynneal.github.io/bacs200/images/trends-cover.jpg') no-repeat center center fixed;
+  background: url('https://kalynneal.github.io/bacs200/images/trend-cover.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -61,6 +61,10 @@ body {
 }
 
 p {
-  text-shadow: 0 0 3px white;
+  text-shadow: 0 0 3px black;
   
+}
+h1 {
+    padding: 5px
+    
 }
